@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tony Varghese</h1>
-<h3 align="center">Compiler Engineer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonykuttai" alt="tonykuttai" /></a> </p>
+<h3 align="center">Compiler Engineer at IBM</h3>
 
 - 🔭 I’m currently working on [LLVM & MLIR](https://github.com/llvm/llvm-project)
 
@@ -33,5 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonykuttai&show_icons=true&locale=en&layout=compact" alt="tonykuttai" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonykuttai&show_icons=true&locale=en" alt="tonykuttai" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonykuttai&" alt="tonykuttai" /></p>
