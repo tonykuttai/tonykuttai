@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Compiler Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tonykuttai?tab=repositories](https://github.com/tonykuttai?tab=repositories)
+- 👨‍💻 All of my projects are available at [my repos](https://github.com/tonykuttai?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@tonykuttai](https://medium.com/@tonykuttai)
+- 📝 I write articles on [medium](https://medium.com/@tonykuttai)
 
 - 💬 Ask me about **Compilers, LLVM, MLIR**
 
