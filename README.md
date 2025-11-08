@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on [LLVM & MLIR](https://github.com/llvm/llvm-project)
 
 - 🌱 I’m currently learning **MLIR**
+  
+- 👓 Technical Reviewer for Packt [Building-Programming-Language-Interpreters](https://github.com/PacktPublishing/Building-Programming-Language-Interpreters)
 
 - 👯 I’m looking to collaborate on **Compiler Projects**
 
