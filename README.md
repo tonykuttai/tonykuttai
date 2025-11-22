@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [LLVM & MLIR](https://github.com/llvm/llvm-project)
 
-- 🌱 I’m currently learning **MLIR**
+- 🌱 Current personal project: [Support PowerPC MMA in MLIR](https://github.com/tonykuttai/llvm-project/pulls).
   
 - 👓 Technical Reviewer for Packt [Building-Programming-Language-Interpreters](https://github.com/PacktPublishing/Building-Programming-Language-Interpreters)
 
@@ -16,6 +16,8 @@
 - 💬 Ask me about **Compilers, LLVM, MLIR**
 
 - 📫 How to reach me **tonypalampalliyil@gmail.com**
+
+- Author of [VSCodium extension for remote ssh to AIX machines](https://github.com/tonykuttai/open-remote-ssh)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
