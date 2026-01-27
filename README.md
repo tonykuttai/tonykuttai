@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [LLVM & MLIR](https://github.com/llvm/llvm-project)
 
-- 🌱 Current personal project: [Support PowerPC MMA in MLIR](https://github.com/tonykuttai/llvm-project/pulls).
+- 🌱 Current personal project: [Support PowerPC MMA in MLIR](https://github.com/tonykuttai/ppc-mlir-llvm-project/pulls?q=is%3Apr+is%3Aclosed).
   
 - 👓 Technical Reviewer for Packt [Building-Programming-Language-Interpreters](https://github.com/PacktPublishing/Building-Programming-Language-Interpreters)
 
